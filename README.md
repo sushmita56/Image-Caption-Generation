@@ -53,6 +53,7 @@ We have developed an end-to-end neural network model that utilizes a convolution
 
 Expanding on our image to caption generator model, we can further develop a caption to speech converter, which would enable visually impaired individuals to comprehend the content of images in public places. Additionally, to improve the model's performance, we could attempt to train it for more epochs, although we were unable to do so this time due to RAM and GPU limitations. Furthermore, as our project was based on a labeled dataset, we could explore the model's performance on an unlabeled dataset in the future, applying unsupervised learning techniques to the architecture.
 
+**Note: This project is carried out entirely in google colab.** 
 #### REFERENCES
 VGG-16 CNN for feature extraction : https://www.geeksforgeeks.org/vgg-16-cnn-model/ <br>
 Tokenizer: https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer
