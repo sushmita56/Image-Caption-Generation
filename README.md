@@ -1,5 +1,5 @@
 <h1 align="center">Image Caption Generation</h1>
-<h4 align="center">For course fulfillment of Fuse Micro-degree Deep Learning</h4>
+<h4 align="center">For the course fulfillment of Fuse Micro-degree Deep Learning</h4>
 
 <h3 align="center"> Sushmita Poudel &nbsp;&nbsp;•&nbsp;&nbsp;Sonika Aacharya &nbsp;&nbsp;•&nbsp;&nbsp; Shailesh Ashikari &nbsp;&nbsp;•&nbsp;&nbsp; Shulav Karki </h3>
 
@@ -9,9 +9,6 @@ Jan 18, 2022
 
 # Introduction
 Generating a descriptive caption for an image using proper English language is a difficult task for a machine as it requires an algorithm to comprehend not only the content of an image but also generate language that accurately describes it. Our project aims to tackle this challenge by developing a generative model that integrates recent advances in both Computer Vision and Natural Language Processing. The outcome of this project has various potential applications, such as automating image tagging and metadata generation, improving social media marketing, and aiding visually impaired individuals in comprehending the context of images.
-
-## Problem Statement
-Image Captioning task requires an algorithm to not only understand the content of the image, but also to generate language that connects to its interpretation. In this particular project we have designed an application to base the caption generator for instagram posts. A simple caption generator derives literal interpretation of the image while this project generates the caption that is more instagram-like.
 
 ### Dataset Used:
 The dataset - Flickr 8k used in this project is collected from kaggle repository. The dataset consists of around 8000 images that are each paired with five different captions which provide a clear description of each salient features of the image. The images were taken from six different Flickr groups, and tend not to contain any well known people or location but were manually selected to depict a variety of scenes and situations.
